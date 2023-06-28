@@ -2,4 +2,10 @@
 
 Still a work in Progress! <br>
 
-This project aims to utilise the StackOverflow 2022 Developer survey to discover some potential insights and analysis that can be found.
+This project aims to utilise the StackOverflow 2022 Developer survey to discover some potential insights and analysis that can be found. <br>
+
+<ul> Some questions I seek to answer: </ul>
+<li> What are the distribution of workers between Remote, Office and Hybrid? </li>
+<li> What is the most popular method of learning to code?</li>
+<li> Does coding experience affect the level of pay that developers receive?</li>
+
